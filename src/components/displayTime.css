@@ -1,0 +1,27 @@
+
+.time {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    font-size: 1em;
+    line-height: 0;
+}
+
+.display-timer-container {
+    font-family: 'Bebas Neue', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: inherit;
+    margin: 1rem 0;
+}
+
+.time-spacer {
+    width: 5%;
+}
+
+img {
+    width: 100%;
+}

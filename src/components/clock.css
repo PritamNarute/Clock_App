@@ -1,0 +1,45 @@
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 70vh;
+    
+}
+
+.time-container {
+    font-family: 'Bebas Neue', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: calc(0.7rem + 18vw);
+    margin-top: 1rem;
+}
+
+.change-format {
+    width: 100%;
+}
+
+
+.change-format-btn {
+    padding: 0.5rem;
+    background-color: gray;
+    border: 1px solid gray;
+    font-size: calc(0.5rem + 0.7vw);
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.state {
+    display: flex;
+    height: 100%;
+    align-items: flex-end;
+    font-size: 0.3em;
+}
