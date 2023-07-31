@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Clock_App/static/css/main.014d3d88.css",
+    "main.js": "/Clock_App/static/js/main.e0823106.js",
+    "static/media/Timer Beep9.mp3": "/Clock_App/static/media/Timer Beep9.a14f62434f720a46c756.mp3",
+    "index.html": "/Clock_App/index.html",
+    "main.014d3d88.css.map": "/Clock_App/static/css/main.014d3d88.css.map",
+    "main.e0823106.js.map": "/Clock_App/static/js/main.e0823106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.014d3d88.css",
+    "static/js/main.e0823106.js"
+  ]
+}
